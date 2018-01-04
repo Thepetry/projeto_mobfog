@@ -8,8 +8,8 @@
 # Metas do projeto:
 > - Procurar por relatorios nos grupos do Facebook e e-mails;
 > - Coletar dados dos relatorios obtidos;
-> - 
-> -
+> - um objetivo loko aqui
+> - outro mais loko aqui tbm
 > -
 > -
 > -
