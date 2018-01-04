@@ -6,7 +6,7 @@
 > fim
 
 # Metas do projeto:
-> - Procurar por relatorios nos grupos do Facebbok e emails;
+> - Procurar por relatorios nos grupos do Facebook e e-mails;
 > - Coletar dados dos relatorios obtidos;
 > - 
 > -
